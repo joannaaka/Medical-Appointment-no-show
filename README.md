@@ -6,6 +6,9 @@
 * Generating of Insights 
 
 ## Project Description 
+A medical appointment is made,all the instructions are communicated but the patient does not up for the appointment.In this project I investigate a dataset of appointment records in public hospitals in Brazil. The data includes the details of the appointment, whether the patient showed up to the appointment or not, as well as other attributes of the patient.
+
+In this project,I aim to explore the certain features of the dataset to answer the question "Why does a patient not show up for a medical appointment".
 
 
 ## Questions for Analysis
