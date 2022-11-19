@@ -1,8 +1,11 @@
 # Medical-Appointment-no-show
 
 ## Project Overview 
-* 
+* Extensive Data Wrangling 
+* Extensive Exploration of Data 
+* Generating of Insights 
 
+## Project Description 
 
 
 ## Questions for Analysis
